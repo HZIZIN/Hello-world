@@ -1,0 +1,13 @@
+ping通(优->差):
+teredo.remlab.net
+teredo-debian.remlab.net
+teredo.trex.fi
+
+ALL:
+teredo.remlab.net / teredo-debian.remlab.net (Germany)
+teredo.autotrans.consulintel.com (Spain)
+teredo.ipv6.microsoft.com (USA, Redmond) (default for WindowsXP/2003/Vista/2008 OS)
+teredo.ngix.ne.kr (South Korea)
+teredo.managemydedi.com (USA, Chicago)
+teredo.trex.fi (Finland)
+更多服务器动态请前往 http://en.wikipedia.org/wiki/Teredo_tunneling#Servers 查看
